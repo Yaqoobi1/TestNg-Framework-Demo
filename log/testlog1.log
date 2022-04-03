@@ -1,0 +1,1056 @@
+2021-10-25 19:39:19,507 [main] INFO logger_File - Start of Execution
+2021-10-25 19:39:26,553 [main] INFO logger_File - User lunched Hotel website
+2021-10-25 19:39:26,554 [main] INFO logger_File - Test Execution Started
+2021-10-25 19:39:37,227 [main] INFO logger_File - Test was passed successfully
+2021-10-25 19:39:37,228 [main] INFO logger_File - method name: loginTest
+2021-10-25 19:39:37,874 [main] INFO logger_File - End of Execution
+2021-10-25 19:41:47,758 [main] INFO logger_File - Start of Execution
+2021-10-25 19:41:53,287 [main] INFO logger_File - User lunched Hotel website
+2021-10-25 19:41:53,288 [main] INFO logger_File - Test Execution Started
+2021-10-25 19:42:03,603 [main] INFO logger_File - Test was passed successfully
+2021-10-25 19:42:03,609 [main] INFO logger_File - method name: loginTest
+2021-10-25 19:42:04,238 [main] INFO logger_File - End of Execution
+2021-10-25 20:35:26,980 [main] INFO logger_File - Start of Execution
+2021-10-25 20:35:27,000 [main] INFO logger_File - Test Execution Started
+2021-10-25 20:35:27,011 [main] INFO logger_File - Test was passed successfully
+2021-10-25 20:35:27,011 [main] INFO logger_File - method name: testOne
+2021-10-25 20:35:27,020 [main] INFO logger_File - Test Execution Started
+2021-10-25 20:35:27,022 [main] INFO logger_File - Test was passed successfully
+2021-10-25 20:35:27,022 [main] INFO logger_File - method name: testTwo
+2021-10-25 20:35:27,037 [main] INFO logger_File - End of Execution
+2021-10-25 21:12:31,152 [main] INFO logger_File - Start of Execution
+2021-10-25 21:12:31,174 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,185 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,186 [main] INFO logger_File - method name: testFive
+2021-10-25 21:12:31,194 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,195 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,195 [main] INFO logger_File - method name: testFour
+2021-10-25 21:12:31,197 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,199 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,199 [main] INFO logger_File - method name: testSix
+2021-10-25 21:12:31,203 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:12:31,204 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:12:31,205 [main] INFO logger_File - method name: testThree
+2021-10-25 21:12:31,221 [main] INFO logger_File - End of Execution
+2021-10-25 21:21:05,351 [main] INFO logger_File - Start of Execution
+2021-10-25 21:21:05,373 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:21:05,386 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:21:05,386 [main] INFO logger_File - method name: test
+2021-10-25 21:21:05,404 [main] INFO logger_File - End of Execution
+2021-10-25 21:58:23,756 [main] INFO logger_File - Start of Execution
+2021-10-25 21:58:23,782 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,790 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,790 [main] INFO logger_File - method name: testFive
+2021-10-25 21:58:23,799 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,800 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,800 [main] INFO logger_File - method name: testFour
+2021-10-25 21:58:23,803 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,805 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,805 [main] INFO logger_File - method name: testOne
+2021-10-25 21:58:23,807 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,808 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,808 [main] INFO logger_File - method name: testThree
+2021-10-25 21:58:23,810 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,811 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,812 [main] INFO logger_File - method name: testTwo
+2021-10-25 21:58:23,814 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:58:23,815 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:58:23,816 [main] INFO logger_File - method name: values
+2021-10-25 21:58:23,827 [main] INFO logger_File - End of Execution
+2021-10-25 21:59:22,237 [main] INFO logger_File - Start of Execution
+2021-10-25 21:59:22,270 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,279 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,280 [main] INFO logger_File - method name: testFive
+2021-10-25 21:59:22,290 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,292 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,292 [main] INFO logger_File - method name: testFour
+2021-10-25 21:59:22,296 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,297 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,298 [main] INFO logger_File - method name: testOne
+2021-10-25 21:59:22,300 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,301 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,302 [main] INFO logger_File - method name: testThree
+2021-10-25 21:59:22,304 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,306 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,306 [main] INFO logger_File - method name: testTwo
+2021-10-25 21:59:22,310 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,312 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,312 [main] INFO logger_File - method name: values
+2021-10-25 21:59:22,314 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,315 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,316 [main] INFO logger_File - method name: troy
+2021-10-25 21:59:22,317 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,318 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,319 [main] INFO logger_File - method name: titanic
+2021-10-25 21:59:22,320 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,322 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,322 [main] INFO logger_File - method name: Terminator
+2021-10-25 21:59:22,323 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,324 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,325 [main] INFO logger_File - method name: starsWar
+2021-10-25 21:59:22,326 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,327 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,327 [main] INFO logger_File - method name: harryPotter
+2021-10-25 21:59:22,328 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,329 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,329 [main] INFO logger_File - method name: forrestGump
+2021-10-25 21:59:22,330 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,331 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,331 [main] INFO logger_File - method name: narnia
+2021-10-25 21:59:22,332 [main] INFO logger_File - Test Execution Started
+2021-10-25 21:59:22,333 [main] INFO logger_File - Test was passed successfully
+2021-10-25 21:59:22,333 [main] INFO logger_File - method name: avengers
+2021-10-25 21:59:22,348 [main] INFO logger_File - End of Execution
+2021-10-26 20:09:18,104 [main] INFO logger_File - Start of Execution
+2021-10-26 20:09:26,207 [main] INFO logger_File - browser opened
+2021-10-26 20:09:26,212 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:09:27,372 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:09:28,115 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:09:28,116 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:09:28,755 [main] INFO logger_File - browser closed
+2021-10-26 20:09:34,486 [main] INFO logger_File - browser opened
+2021-10-26 20:09:34,487 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:09:35,090 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:09:36,083 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:09:36,083 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:09:36,708 [main] INFO logger_File - browser closed
+2021-10-26 20:09:41,979 [main] INFO logger_File - browser opened
+2021-10-26 20:09:41,980 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:09:42,509 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:09:43,093 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:09:43,093 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:09:43,715 [main] INFO logger_File - browser closed
+2021-10-26 20:09:49,391 [main] INFO logger_File - browser opened
+2021-10-26 20:09:49,392 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:09:50,081 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:09:50,871 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:09:50,871 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:09:51,619 [main] INFO logger_File - browser closed
+2021-10-26 20:09:58,249 [main] INFO logger_File - browser opened
+2021-10-26 20:09:58,250 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:09:58,955 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:09:59,788 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:09:59,789 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:10:00,418 [main] INFO logger_File - browser closed
+2021-10-26 20:10:07,648 [main] INFO logger_File - browser opened
+2021-10-26 20:10:07,649 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:10:08,424 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:10:09,239 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:10:09,239 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:10:09,866 [main] INFO logger_File - browser closed
+2021-10-26 20:10:17,341 [main] INFO logger_File - browser opened
+2021-10-26 20:10:17,342 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:10:18,015 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:10:18,769 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:10:18,770 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:10:19,506 [main] INFO logger_File - browser closed
+2021-10-26 20:10:24,199 [main] INFO logger_File - browser opened
+2021-10-26 20:10:24,200 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:10:24,716 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:10:25,362 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:10:25,362 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:10:25,986 [main] INFO logger_File - browser closed
+2021-10-26 20:10:32,968 [main] INFO logger_File - browser opened
+2021-10-26 20:10:32,968 [main] INFO logger_File - Test Execution Started
+2021-10-26 20:10:33,657 [main] INFO logger_File - user clicked on signIn
+2021-10-26 20:10:34,317 [main] INFO logger_File - Test was passed successfully
+2021-10-26 20:10:34,317 [main] INFO logger_File - method name: testLogin
+2021-10-26 20:10:34,938 [main] INFO logger_File - browser closed
+2021-10-26 20:10:34,953 [main] INFO logger_File - End of Execution
+2021-10-26 21:37:39,157 [main] INFO logger_File - Start of Execution
+2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:37:39,183 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:37:44,831 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:37:46,389 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:37:46,390 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:37:46,401 [main] INFO logger_File - End of Execution
+2021-10-26 21:39:46,845 [main] INFO logger_File - Start of Execution
+2021-10-26 21:39:46,868 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:39:46,869 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:39:52,018 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:39:52,019 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:39:52,596 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:39:52,609 [main] INFO logger_File - End of Execution
+2021-10-26 21:41:15,857 [main] INFO logger_File - Start of Execution
+2021-10-26 21:41:15,883 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:41:15,884 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:41:15,885 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
+2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:20,262 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:41:20,286 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:20,287 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:41:26,304 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was passed successfully
+2021-10-26 21:41:26,305 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:41:26,316 [main] INFO logger_File - End of Execution
+2021-10-26 21:44:42,786 [main] INFO logger_File - Start of Execution
+2021-10-26 21:44:42,810 [TestNG-test=ParallelExecution-1] INFO logger_File - Test Execution Started
+2021-10-26 21:44:42,811 [TestNG-test=ParallelExecution-2] INFO logger_File - Test Execution Started
+2021-10-26 21:44:42,812 [TestNG-test=ParallelExecution-3] INFO logger_File - Test Execution Started
+2021-10-26 21:44:48,421 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
+2021-10-26 21:44:48,422 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - Test was failed
+2021-10-26 21:44:48,423 [TestNG-test=ParallelExecution-1] INFO logger_File - method name: testOne
+2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
+2021-10-26 21:44:51,328 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - Test was failed
+2021-10-26 21:44:51,329 [TestNG-test=ParallelExecution-2] INFO logger_File - method name: testTwo
+2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
+2021-10-26 21:44:58,393 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - Test was failed
+2021-10-26 21:44:58,394 [TestNG-test=ParallelExecution-3] INFO logger_File - method name: testthree
+2021-10-26 21:44:58,412 [main] INFO logger_File - End of Execution
+2021-10-27 02:58:33,252 [main] INFO logger_File - Start of Execution
+2021-10-27 02:58:33,307 [main] INFO logger_File - Test Execution Started
+2021-10-27 02:58:33,336 [main] INFO logger_File - Test was passed successfully
+2021-10-27 02:58:33,337 [main] INFO logger_File - method name: afterTest
+2021-10-27 02:58:33,356 [main] INFO logger_File - Test Execution Started
+2021-10-27 02:58:33,360 [main] INFO logger_File - Test was passed successfully
+2021-10-27 02:58:33,362 [main] INFO logger_File - method name: beforTest
+2021-10-27 02:58:33,375 [main] INFO logger_File - Test was failed
+2021-10-27 02:58:33,376 [main] INFO logger_File - method name: valuesTest
+2021-10-27 02:58:33,430 [main] INFO logger_File - End of Execution
+2021-10-27 03:00:26,481 [main] INFO logger_File - Start of Execution
+2021-10-27 03:00:26,536 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:00:26,562 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:00:26,563 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:00:26,582 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:00:26,586 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:00:26,588 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:00:26,600 [main] INFO logger_File - Test was failed
+2021-10-27 03:00:26,601 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:00:26,663 [main] INFO logger_File - End of Execution
+2021-10-27 03:01:19,299 [main] INFO logger_File - Start of Execution
+2021-10-27 03:01:19,354 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:01:19,380 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:01:19,381 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:01:19,398 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:01:19,402 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:01:19,403 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:01:19,414 [main] INFO logger_File - Test was failed
+2021-10-27 03:01:19,415 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:01:19,469 [main] INFO logger_File - End of Execution
+2021-10-27 03:10:19,336 [main] INFO logger_File - Start of Execution
+2021-10-27 03:10:19,388 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:10:19,411 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:10:19,412 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:10:19,430 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:10:19,434 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:10:19,435 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:10:19,446 [main] INFO logger_File - Test was failed
+2021-10-27 03:10:19,447 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:10:19,504 [main] INFO logger_File - End of Execution
+2021-10-27 03:12:45,885 [main] INFO logger_File - Start of Execution
+2021-10-27 03:12:45,939 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:12:45,965 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:12:45,966 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:12:45,984 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:12:45,987 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:12:45,988 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:12:45,998 [main] INFO logger_File - Test was failed
+2021-10-27 03:12:45,999 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:12:46,051 [main] INFO logger_File - End of Execution
+2021-10-27 03:15:20,850 [main] INFO logger_File - Start of Execution
+2021-10-27 03:15:20,903 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:15:20,928 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:15:20,929 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:15:20,945 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:15:20,948 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:15:20,949 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:15:20,960 [main] INFO logger_File - Test was failed
+2021-10-27 03:15:20,961 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:15:21,021 [main] INFO logger_File - End of Execution
+2021-10-27 03:15:55,357 [main] INFO logger_File - Start of Execution
+2021-10-27 03:15:55,409 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:15:55,436 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:15:55,438 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:15:55,456 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:15:55,459 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:15:55,460 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:15:55,470 [main] INFO logger_File - Test was failed
+2021-10-27 03:15:55,471 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:15:55,526 [main] INFO logger_File - End of Execution
+2021-10-27 03:16:47,589 [main] INFO logger_File - Start of Execution
+2021-10-27 03:16:47,642 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:16:47,664 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:16:47,666 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:16:47,683 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:16:47,687 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:16:47,689 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:16:47,699 [main] INFO logger_File - Test was failed
+2021-10-27 03:16:47,700 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:16:47,752 [main] INFO logger_File - End of Execution
+2021-10-27 03:17:07,772 [main] INFO logger_File - Start of Execution
+2021-10-27 03:17:07,822 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:17:07,850 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:17:07,851 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:17:07,871 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:17:07,874 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:17:07,875 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:17:07,887 [main] INFO logger_File - Test was failed
+2021-10-27 03:17:07,888 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:17:07,937 [main] INFO logger_File - End of Execution
+2021-10-27 03:17:41,120 [main] INFO logger_File - Start of Execution
+2021-10-27 03:17:41,171 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:17:41,195 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:17:41,196 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:17:41,213 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:17:41,216 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:17:41,217 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:17:41,230 [main] INFO logger_File - Test was failed
+2021-10-27 03:17:41,231 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:17:41,285 [main] INFO logger_File - End of Execution
+2021-10-27 03:25:56,880 [main] INFO logger_File - Start of Execution
+2021-10-27 03:25:56,933 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:25:56,959 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:25:56,960 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:25:56,978 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:25:56,982 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:25:56,983 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:25:56,992 [main] INFO logger_File - Test was failed
+2021-10-27 03:25:56,993 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:25:57,048 [main] INFO logger_File - End of Execution
+2021-10-27 03:26:29,827 [main] INFO logger_File - Start of Execution
+2021-10-27 03:26:29,878 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:26:29,903 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:26:29,903 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:26:29,920 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:26:29,923 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:26:29,924 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:26:29,937 [main] INFO logger_File - Test was failed
+2021-10-27 03:26:29,938 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:26:29,993 [main] INFO logger_File - End of Execution
+2021-10-27 03:29:03,026 [main] INFO logger_File - Start of Execution
+2021-10-27 03:29:03,080 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:29:03,105 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:29:03,105 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:29:03,123 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:29:03,127 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:29:03,128 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:29:03,140 [main] INFO logger_File - Test was failed
+2021-10-27 03:29:03,141 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:29:03,194 [main] INFO logger_File - End of Execution
+2021-10-27 03:30:58,425 [main] INFO logger_File - Start of Execution
+2021-10-27 03:30:58,477 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,501 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,502 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:30:58,518 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,521 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,522 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:30:58,530 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,534 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,535 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:30:58,541 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,545 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,546 [main] INFO logger_File - method name: groupsOne
+2021-10-27 03:30:58,550 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,553 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,554 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 03:30:58,558 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,561 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,562 [main] INFO logger_File - method name: groupsThree
+2021-10-27 03:30:58,566 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:30:58,569 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:30:58,570 [main] INFO logger_File - method name: groupsFour
+2021-10-27 03:30:58,612 [main] INFO logger_File - End of Execution
+2021-10-27 03:32:08,201 [main] INFO logger_File - Start of Execution
+2021-10-27 03:32:08,258 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,284 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,285 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:32:08,302 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,305 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,306 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:32:08,315 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,318 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,319 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:32:08,324 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,327 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,328 [main] INFO logger_File - method name: groupsOne
+2021-10-27 03:32:08,334 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,337 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,338 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 03:32:08,342 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,345 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,345 [main] INFO logger_File - method name: groupsThree
+2021-10-27 03:32:08,349 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:08,352 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:08,352 [main] INFO logger_File - method name: groupsFour
+2021-10-27 03:32:08,395 [main] INFO logger_File - End of Execution
+2021-10-27 03:32:38,284 [main] INFO logger_File - Start of Execution
+2021-10-27 03:32:38,332 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,357 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,358 [main] INFO logger_File - method name: afterTest
+2021-10-27 03:32:38,376 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,379 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,380 [main] INFO logger_File - method name: beforTest
+2021-10-27 03:32:38,390 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,393 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,394 [main] INFO logger_File - method name: valuesTest
+2021-10-27 03:32:38,400 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,403 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,404 [main] INFO logger_File - method name: groupsOne
+2021-10-27 03:32:38,409 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,412 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,413 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 03:32:38,417 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,420 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,421 [main] INFO logger_File - method name: groupsThree
+2021-10-27 03:32:38,427 [main] INFO logger_File - Test Execution Started
+2021-10-27 03:32:38,430 [main] INFO logger_File - Test was passed successfully
+2021-10-27 03:32:38,431 [main] INFO logger_File - method name: groupsFour
+2021-10-27 03:32:38,473 [main] INFO logger_File - End of Execution
+2021-10-27 12:18:39,415 [main] INFO logger_File - Start of Execution
+2021-10-27 12:18:39,462 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:18:39,494 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:18:39,495 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:18:39,515 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:18:39,519 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:18:39,520 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:18:39,526 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:18:39,530 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:18:39,531 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:18:39,572 [main] INFO logger_File - End of Execution
+2021-10-27 12:25:38,081 [main] INFO logger_File - Start of Execution
+2021-10-27 12:25:38,125 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:25:38,155 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:25:38,155 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:25:38,175 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:25:38,179 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:25:38,180 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 12:25:38,186 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:25:38,190 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:25:38,191 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:25:38,195 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:25:38,197 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:25:38,198 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:25:38,241 [main] INFO logger_File - End of Execution
+2021-10-27 12:31:32,916 [main] INFO logger_File - Start of Execution
+2021-10-27 12:31:32,964 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:32,989 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:32,990 [main] INFO logger_File - method name: afterTest
+2021-10-27 12:31:33,006 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,009 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,010 [main] INFO logger_File - method name: beforTest
+2021-10-27 12:31:33,020 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,024 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,025 [main] INFO logger_File - method name: valuesTest
+2021-10-27 12:31:33,031 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,034 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,035 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:31:33,039 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,042 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,043 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 12:31:33,048 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,051 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,051 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:31:33,056 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:31:33,059 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:31:33,060 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:31:33,099 [main] INFO logger_File - End of Execution
+2021-10-27 12:36:42,902 [main] INFO logger_File - Start of Execution
+2021-10-27 12:36:42,948 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:36:42,979 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:36:42,980 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:36:42,997 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:36:43,001 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:36:43,002 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 12:36:43,007 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:36:43,010 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:36:43,010 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:36:43,014 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:36:43,016 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:36:43,017 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:36:43,059 [main] INFO logger_File - End of Execution
+2021-10-27 12:42:52,735 [main] INFO logger_File - Start of Execution
+2021-10-27 12:42:52,783 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,810 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,811 [main] INFO logger_File - method name: afterTest
+2021-10-27 12:42:52,828 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,832 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,833 [main] INFO logger_File - method name: beforTest
+2021-10-27 12:42:52,843 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,846 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,847 [main] INFO logger_File - method name: valuesTest
+2021-10-27 12:42:52,853 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,856 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,857 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:42:52,861 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,863 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,864 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 12:42:52,868 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,871 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,872 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:42:52,877 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:42:52,880 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:42:52,881 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:42:52,922 [main] INFO logger_File - End of Execution
+2021-10-27 12:45:59,150 [main] INFO logger_File - Start of Execution
+2021-10-27 12:45:59,208 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,233 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,234 [main] INFO logger_File - method name: afterTest
+2021-10-27 12:45:59,254 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,257 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,258 [main] INFO logger_File - method name: beforTest
+2021-10-27 12:45:59,268 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,271 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,272 [main] INFO logger_File - method name: valuesTest
+2021-10-27 12:45:59,278 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,281 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,282 [main] INFO logger_File - method name: groupsOne
+2021-10-27 12:45:59,286 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,289 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,289 [main] INFO logger_File - method name: groupsTwo
+2021-10-27 12:45:59,294 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,297 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,298 [main] INFO logger_File - method name: groupsThree
+2021-10-27 12:45:59,304 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,306 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,307 [main] INFO logger_File - method name: groupsFour
+2021-10-27 12:45:59,311 [main] INFO logger_File - Test Execution Started
+2021-10-27 12:45:59,314 [main] INFO logger_File - Test was passed successfully
+2021-10-27 12:45:59,314 [main] INFO logger_File - method name: groupsFive
+2021-10-27 12:45:59,356 [main] INFO logger_File - End of Execution
+2021-10-27 13:18:01,042 [main] INFO logger_File - Start of Execution
+2021-10-27 13:18:01,093 [main] INFO logger_File - End of Execution
+2021-10-27 13:18:55,042 [main] INFO logger_File - Start of Execution
+2021-10-27 13:18:55,085 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:18:55,106 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:18:55,106 [main] INFO logger_File - method name: groupsTestFive
+2021-10-27 13:18:55,131 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:18:55,134 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:18:55,135 [main] INFO logger_File - method name: groupsTestSix
+2021-10-27 13:18:55,140 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:18:55,143 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:18:55,144 [main] INFO logger_File - method name: groupsTestThree
+2021-10-27 13:18:55,147 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:18:55,151 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:18:55,152 [main] INFO logger_File - method name: groupsTestTwo
+2021-10-27 13:18:55,193 [main] INFO logger_File - End of Execution
+2021-10-27 13:20:17,474 [main] INFO logger_File - Start of Execution
+2021-10-27 13:20:17,525 [main] INFO logger_File - End of Execution
+2021-10-27 13:20:33,014 [main] INFO logger_File - Start of Execution
+2021-10-27 13:20:33,058 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:20:33,078 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:20:33,079 [main] INFO logger_File - method name: groupsTestOne
+2021-10-27 13:20:33,140 [main] INFO logger_File - End of Execution
+2021-10-27 13:21:12,380 [main] INFO logger_File - Start of Execution
+2021-10-27 13:21:12,419 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:21:12,438 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:21:12,440 [main] INFO logger_File - method name: groupsTestFour
+2021-10-27 13:21:12,463 [main] INFO logger_File - Test Execution Started
+2021-10-27 13:21:12,467 [main] INFO logger_File - Test was passed successfully
+2021-10-27 13:21:12,468 [main] INFO logger_File - method name: groupsTestOne
+2021-10-27 13:21:12,511 [main] INFO logger_File - End of Execution
+2021-10-27 14:56:07,926 [main] INFO logger_File - browser opened
+2021-10-27 14:56:11,630 [main] INFO logger_File - browser opened
+2021-10-27 14:56:16,745 [main] INFO logger_File - browser opened
+2021-10-27 14:57:07,168 [main] INFO logger_File - browser opened
+2021-10-27 14:57:56,251 [main] INFO logger_File - browser opened
+2021-10-27 14:58:45,645 [main] INFO logger_File - browser opened
+2021-10-27 14:59:35,918 [main] INFO logger_File - browser opened
+2021-10-27 15:00:25,026 [main] INFO logger_File - browser opened
+2021-10-27 15:01:13,920 [main] INFO logger_File - browser opened
+2021-10-27 15:02:03,793 [main] INFO logger_File - browser opened
+2021-10-27 15:02:52,981 [main] INFO logger_File - browser opened
+2021-10-27 15:16:21,515 [main] INFO logger_File - browser opened
+2021-10-27 15:16:22,251 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:16:23,452 [main] INFO logger_File - browser closed
+2021-10-27 15:16:27,174 [main] INFO logger_File - browser opened
+2021-10-27 15:16:27,698 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:16:28,653 [main] INFO logger_File - browser closed
+2021-10-27 15:16:32,642 [main] INFO logger_File - browser opened
+2021-10-27 15:16:33,437 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:16:38,789 [main] INFO logger_File - browser closed
+2021-10-27 15:16:42,745 [main] INFO logger_File - browser opened
+2021-10-27 15:16:43,239 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:16:48,292 [main] INFO logger_File - browser closed
+2021-10-27 15:16:53,254 [main] INFO logger_File - browser opened
+2021-10-27 15:16:53,730 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:16:58,710 [main] INFO logger_File - browser closed
+2021-10-27 15:17:02,497 [main] INFO logger_File - browser opened
+2021-10-27 15:17:03,056 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:17:03,972 [main] INFO logger_File - browser closed
+2021-10-27 15:17:07,825 [main] INFO logger_File - browser opened
+2021-10-27 15:17:08,355 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:17:09,245 [main] INFO logger_File - browser closed
+2021-10-27 15:17:12,857 [main] INFO logger_File - browser opened
+2021-10-27 15:17:13,448 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:17:14,399 [main] INFO logger_File - browser closed
+2021-10-27 15:17:18,858 [main] INFO logger_File - browser opened
+2021-10-27 15:17:19,513 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:17:24,594 [main] INFO logger_File - browser closed
+2021-10-27 15:19:16,988 [main] INFO logger_File - browser opened
+2021-10-27 15:19:17,584 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:18,382 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:22,630 [main] INFO logger_File - browser closed
+2021-10-27 15:19:26,263 [main] INFO logger_File - browser opened
+2021-10-27 15:19:26,775 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:27,535 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:27,702 [main] INFO logger_File - browser closed
+2021-10-27 15:19:32,275 [main] INFO logger_File - browser opened
+2021-10-27 15:19:33,688 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:34,489 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:38,766 [main] INFO logger_File - browser closed
+2021-10-27 15:19:42,365 [main] INFO logger_File - browser opened
+2021-10-27 15:19:42,906 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:43,620 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:47,853 [main] INFO logger_File - browser closed
+2021-10-27 15:19:51,683 [main] INFO logger_File - browser opened
+2021-10-27 15:19:52,187 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:53,049 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:53,215 [main] INFO logger_File - browser closed
+2021-10-27 15:19:56,821 [main] INFO logger_File - browser opened
+2021-10-27 15:19:57,819 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:19:59,048 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:19:59,242 [main] INFO logger_File - browser closed
+2021-10-27 15:20:03,561 [main] INFO logger_File - browser opened
+2021-10-27 15:20:04,807 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:20:07,551 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:20:07,729 [main] INFO logger_File - browser closed
+2021-10-27 15:20:11,600 [main] INFO logger_File - browser opened
+2021-10-27 15:20:12,397 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:20:13,144 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:20:13,307 [main] INFO logger_File - browser closed
+2021-10-27 15:20:18,016 [main] INFO logger_File - browser opened
+2021-10-27 15:20:18,505 [main] INFO logger_File - user clicked on signIn
+2021-10-27 15:20:19,274 [main] INFO logger_File - user enter credintial info
+2021-10-27 15:20:19,433 [main] INFO logger_File - browser closed
+2021-10-27 16:00:05,550 [main] INFO logger_File - Start of Execution
+2021-10-27 16:00:10,717 [main] INFO logger_File - Browser opened
+2021-10-27 16:00:10,727 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:00:12,463 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:00:12,469 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:00:12,470 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:00:12,657 [main] INFO logger_File - Browser closed
+2021-10-27 16:00:16,156 [main] INFO logger_File - Browser opened
+2021-10-27 16:00:16,159 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:00:16,319 [main] INFO logger_File - Browser closed
+2021-10-27 16:00:16,322 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:00:16,322 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:00:16,345 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:00:16,388 [main] INFO logger_File - End of Execution
+2021-10-27 16:06:19,905 [main] INFO logger_File - Start of Execution
+2021-10-27 16:06:25,725 [main] INFO logger_File - Browser opened
+2021-10-27 16:06:25,735 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:06:27,329 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:06:27,334 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:06:27,336 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:06:27,528 [main] INFO logger_File - Browser closed
+2021-10-27 16:06:31,743 [main] INFO logger_File - Browser opened
+2021-10-27 16:06:31,747 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:06:31,941 [main] INFO logger_File - Browser closed
+2021-10-27 16:06:31,945 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:06:31,946 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:06:31,974 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:06:32,038 [main] INFO logger_File - End of Execution
+2021-10-27 16:10:44,603 [main] INFO logger_File - Browser opened
+2021-10-27 16:10:45,614 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:10:45,803 [main] INFO logger_File - Browser closed
+2021-10-27 16:10:49,778 [main] INFO logger_File - Browser opened
+2021-10-27 16:10:49,942 [main] INFO logger_File - Browser closed
+2021-10-27 16:16:34,931 [main] INFO logger_File - Start of Execution
+2021-10-27 16:16:40,095 [main] INFO logger_File - Browser opened
+2021-10-27 16:16:40,103 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:16:41,520 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:16:41,524 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:16:41,525 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:16:41,717 [main] INFO logger_File - Browser closed
+2021-10-27 16:16:45,250 [main] INFO logger_File - Browser opened
+2021-10-27 16:16:45,252 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:16:45,417 [main] INFO logger_File - Browser closed
+2021-10-27 16:16:45,420 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:16:45,421 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:16:45,440 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:16:45,503 [main] INFO logger_File - End of Execution
+2021-10-27 16:19:07,553 [main] INFO logger_File - Start of Execution
+2021-10-27 16:19:12,494 [main] INFO logger_File - Browser opened
+2021-10-27 16:19:12,502 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:19:12,676 [main] INFO logger_File - Browser closed
+2021-10-27 16:19:12,680 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:19:12,681 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:19:12,712 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:19:12,721 [main] INFO logger_File - method name: parametersTest
+2021-10-27 16:19:12,774 [main] INFO logger_File - End of Execution
+2021-10-27 16:21:36,122 [main] INFO logger_File - Start of Execution
+2021-10-27 16:21:41,800 [main] INFO logger_File - Browser opened
+2021-10-27 16:21:41,809 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:21:41,998 [main] INFO logger_File - Browser closed
+2021-10-27 16:21:42,002 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:21:42,003 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:21:42,037 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:21:42,048 [main] INFO logger_File - method name: parametersTest
+2021-10-27 16:21:42,099 [main] INFO logger_File - End of Execution
+2021-10-27 16:22:46,273 [main] INFO logger_File - Start of Execution
+2021-10-27 16:22:52,762 [main] INFO logger_File - Browser opened
+2021-10-27 16:22:52,776 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:22:55,057 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:22:55,063 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:22:55,064 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:22:55,257 [main] INFO logger_File - Browser closed
+2021-10-27 16:22:59,201 [main] INFO logger_File - Browser opened
+2021-10-27 16:22:59,204 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:22:59,358 [main] INFO logger_File - Browser closed
+2021-10-27 16:22:59,361 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:22:59,362 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:22:59,380 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:22:59,430 [main] INFO logger_File - End of Execution
+2021-10-27 16:26:25,640 [main] INFO logger_File - Start of Execution
+2021-10-27 16:26:30,828 [main] INFO logger_File - Browser opened
+2021-10-27 16:26:30,838 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:26:32,633 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:26:32,638 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:26:32,639 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:26:32,828 [main] INFO logger_File - Browser closed
+2021-10-27 16:26:36,519 [main] INFO logger_File - Browser opened
+2021-10-27 16:26:36,523 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:26:36,700 [main] INFO logger_File - Browser closed
+2021-10-27 16:26:36,703 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:26:36,704 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:26:36,726 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:26:36,775 [main] INFO logger_File - End of Execution
+2021-10-27 16:29:03,087 [main] INFO logger_File - Start of Execution
+2021-10-27 16:29:08,854 [main] INFO logger_File - Browser opened
+2021-10-27 16:29:08,862 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:29:09,543 [main] INFO logger_File - This is it
+2021-10-27 16:29:10,380 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:29:10,385 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:29:10,386 [main] INFO logger_File - method name: ParametersTest
+2021-10-27 16:29:10,574 [main] INFO logger_File - Browser closed
+2021-10-27 16:29:14,372 [main] INFO logger_File - Browser opened
+2021-10-27 16:29:14,375 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:29:14,531 [main] INFO logger_File - Browser closed
+2021-10-27 16:29:14,534 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:29:14,535 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:29:14,556 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:29:14,614 [main] INFO logger_File - End of Execution
+2021-10-27 16:31:32,846 [main] INFO logger_File - Start of Execution
+2021-10-27 16:31:39,160 [main] INFO logger_File - Browser opened
+2021-10-27 16:31:39,168 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:31:39,342 [main] INFO logger_File - Browser closed
+2021-10-27 16:31:39,346 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:31:39,347 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:31:39,377 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:31:39,387 [main] INFO logger_File - method name: parametersTest
+2021-10-27 16:31:39,438 [main] INFO logger_File - End of Execution
+2021-10-27 16:32:15,692 [main] INFO logger_File - Start of Execution
+2021-10-27 16:32:21,218 [main] INFO logger_File - Browser opened
+2021-10-27 16:32:21,227 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:32:21,410 [main] INFO logger_File - Browser closed
+2021-10-27 16:32:21,414 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:32:21,415 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:32:21,451 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:32:21,462 [main] INFO logger_File - method name: parametersTest
+2021-10-27 16:32:21,524 [main] INFO logger_File - End of Execution
+2021-10-27 16:35:44,724 [main] INFO logger_File - Start of Execution
+2021-10-27 16:35:50,261 [main] INFO logger_File - Browser opened
+2021-10-27 16:35:50,269 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:35:50,444 [main] INFO logger_File - Browser closed
+2021-10-27 16:35:50,447 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:35:50,448 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:35:54,066 [main] INFO logger_File - Browser opened
+2021-10-27 16:35:54,071 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:35:54,235 [main] INFO logger_File - Browser closed
+2021-10-27 16:35:58,498 [main] INFO logger_File - Browser opened
+2021-10-27 16:35:58,502 [main] INFO logger_File - method name: parametersTest
+2021-10-27 16:35:58,663 [main] INFO logger_File - Browser closed
+2021-10-27 16:35:58,709 [main] INFO logger_File - End of Execution
+2021-10-27 16:39:10,766 [main] INFO logger_File - Start of Execution
+2021-10-27 16:39:16,999 [main] INFO logger_File - Browser opened
+2021-10-27 16:39:17,008 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:39:17,183 [main] INFO logger_File - Browser closed
+2021-10-27 16:39:17,186 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:39:17,187 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:39:20,981 [main] INFO logger_File - Browser opened
+2021-10-27 16:39:20,988 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:39:21,153 [main] INFO logger_File - Browser closed
+2021-10-27 16:39:25,054 [main] INFO logger_File - Browser opened
+2021-10-27 16:39:25,058 [main] INFO logger_File - method name: test
+2021-10-27 16:39:25,214 [main] INFO logger_File - Browser closed
+2021-10-27 16:39:25,260 [main] INFO logger_File - End of Execution
+2021-10-27 16:41:02,540 [main] INFO logger_File - browser opened
+2021-10-27 16:41:03,815 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:05,488 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:05,674 [main] INFO logger_File - browser closed
+2021-10-27 16:41:09,405 [main] INFO logger_File - browser opened
+2021-10-27 16:41:10,004 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:11,174 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:11,405 [main] INFO logger_File - browser closed
+2021-10-27 16:41:15,775 [main] INFO logger_File - browser opened
+2021-10-27 16:41:17,797 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:20,190 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:20,368 [main] INFO logger_File - browser closed
+2021-10-27 16:41:25,459 [main] INFO logger_File - browser opened
+2021-10-27 16:41:26,228 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:27,118 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:31,322 [main] INFO logger_File - browser closed
+2021-10-27 16:41:35,096 [main] INFO logger_File - browser opened
+2021-10-27 16:41:35,683 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:36,500 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:40,724 [main] INFO logger_File - browser closed
+2021-10-27 16:41:45,058 [main] INFO logger_File - browser opened
+2021-10-27 16:41:45,588 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:47,443 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:47,609 [main] INFO logger_File - browser closed
+2021-10-27 16:41:51,708 [main] INFO logger_File - browser opened
+2021-10-27 16:41:52,306 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:53,137 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:53,302 [main] INFO logger_File - browser closed
+2021-10-27 16:41:57,380 [main] INFO logger_File - browser opened
+2021-10-27 16:41:57,993 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:41:58,812 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:41:59,022 [main] INFO logger_File - browser closed
+2021-10-27 16:42:02,988 [main] INFO logger_File - browser opened
+2021-10-27 16:42:03,477 [main] INFO logger_File - user clicked on signIn
+2021-10-27 16:42:04,250 [main] INFO logger_File - user enter credintial info
+2021-10-27 16:42:08,480 [main] INFO logger_File - browser closed
+2021-10-27 16:48:30,938 [main] INFO logger_File - Start of Execution
+2021-10-27 16:48:37,785 [main] INFO logger_File - Browser opened
+2021-10-27 16:48:37,793 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:48:37,975 [main] INFO logger_File - Browser closed
+2021-10-27 16:48:37,979 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:48:37,980 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:48:38,009 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:48:38,023 [main] INFO logger_File - method name: test
+2021-10-27 16:48:38,080 [main] INFO logger_File - End of Execution
+2021-10-27 16:49:11,911 [main] INFO logger_File - Start of Execution
+2021-10-27 16:49:17,317 [main] INFO logger_File - Browser opened
+2021-10-27 16:49:17,325 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:49:17,896 [main] INFO logger_File - This is it
+2021-10-27 16:49:18,681 [main] INFO logger_File - user enter creditianls
+2021-10-27 16:49:18,687 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:49:18,688 [main] INFO logger_File - method name: Parameterstest
+2021-10-27 16:49:18,890 [main] INFO logger_File - Browser closed
+2021-10-27 16:49:23,125 [main] INFO logger_File - Browser opened
+2021-10-27 16:49:23,128 [main] INFO logger_File - Test Execution Started
+2021-10-27 16:49:23,292 [main] INFO logger_File - Browser closed
+2021-10-27 16:49:23,295 [main] INFO logger_File - Test was passed successfully
+2021-10-27 16:49:23,296 [main] INFO logger_File - method name: afterMethod
+2021-10-27 16:49:23,317 [main] INFO logger_File - method name: beforeMethod
+2021-10-27 16:49:23,366 [main] INFO logger_File - End of Execution
+2021-10-28 00:57:02,102 [main] INFO logger_File - Browser opened
+2021-10-28 00:57:04,134 [main] INFO logger_File - This is it
+2021-10-28 00:57:04,576 [main] INFO logger_File - user enter creditianls
+2021-10-28 00:57:04,764 [main] INFO logger_File - Browser closed
+2021-10-28 00:57:09,256 [main] INFO logger_File - Browser opened
+2021-10-28 00:57:09,421 [main] INFO logger_File - Browser closed
+2021-10-28 00:57:47,559 [main] INFO logger_File - Start of Execution
+2021-10-28 00:57:56,120 [main] INFO logger_File - Browser opened
+2021-10-28 00:57:56,130 [main] INFO logger_File - Test Execution Started
+2021-10-28 00:57:57,340 [main] INFO logger_File - This is it
+2021-10-28 00:57:58,993 [main] INFO logger_File - user enter creditianls
+2021-10-28 00:57:58,999 [main] INFO logger_File - Test was passed successfully
+2021-10-28 00:57:59,001 [main] INFO logger_File - method name: Parameterstest
+2021-10-28 00:57:59,192 [main] INFO logger_File - Browser closed
+2021-10-28 00:58:03,112 [main] INFO logger_File - Browser opened
+2021-10-28 00:58:03,114 [main] INFO logger_File - Test Execution Started
+2021-10-28 00:58:03,277 [main] INFO logger_File - Browser closed
+2021-10-28 00:58:03,280 [main] INFO logger_File - Test was passed successfully
+2021-10-28 00:58:03,281 [main] INFO logger_File - method name: afterMethod
+2021-10-28 00:58:03,303 [main] INFO logger_File - method name: beforeMethod
+2021-10-28 00:58:03,361 [main] INFO logger_File - End of Execution
+2021-10-28 01:51:27,854 [main] INFO logger_File - browser opened
+2021-10-28 01:51:31,462 [main] INFO logger_File - browser opened
+2021-10-28 01:51:31,643 [main] INFO logger_File - browser closed
+2021-10-28 01:51:37,498 [main] INFO logger_File - browser opened
+2021-10-28 01:51:38,655 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:51:39,954 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:51:40,120 [main] INFO logger_File - browser closed
+2021-10-28 01:51:44,278 [main] INFO logger_File - browser opened
+2021-10-28 01:51:44,798 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:51:45,563 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:51:49,763 [main] INFO logger_File - browser closed
+2021-10-28 01:51:53,489 [main] INFO logger_File - browser opened
+2021-10-28 01:51:54,029 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:51:54,755 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:51:58,984 [main] INFO logger_File - browser closed
+2021-10-28 01:52:03,117 [main] INFO logger_File - browser opened
+2021-10-28 01:52:03,647 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:04,381 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:08,591 [main] INFO logger_File - browser closed
+2021-10-28 01:52:12,358 [main] INFO logger_File - browser opened
+2021-10-28 01:52:12,849 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:13,666 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:17,896 [main] INFO logger_File - browser closed
+2021-10-28 01:52:22,825 [main] INFO logger_File - browser opened
+2021-10-28 01:52:23,334 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:24,059 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:24,240 [main] INFO logger_File - browser closed
+2021-10-28 01:52:27,851 [main] INFO logger_File - browser opened
+2021-10-28 01:52:28,386 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:29,138 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:33,374 [main] INFO logger_File - browser closed
+2021-10-28 01:52:38,023 [main] INFO logger_File - browser opened
+2021-10-28 01:52:38,671 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:40,651 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:40,855 [main] INFO logger_File - browser closed
+2021-10-28 01:52:44,562 [main] INFO logger_File - browser opened
+2021-10-28 01:52:45,188 [main] INFO logger_File - user clicked on signIn
+2021-10-28 01:52:46,710 [main] INFO logger_File - user enter credintial info
+2021-10-28 01:52:46,882 [main] INFO logger_File - browser closed
+2021-10-28 17:49:27,714 [main] INFO logger_File - browser opened
+2021-10-28 17:49:32,180 [main] INFO logger_File - browser opened
+2021-10-28 17:49:32,385 [main] INFO logger_File - browser closed
+2021-10-28 17:49:38,731 [main] INFO logger_File - browser opened
+2021-10-28 17:49:40,338 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:49:42,520 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:49:42,664 [main] INFO logger_File - browser closed
+2021-10-28 17:49:49,382 [main] INFO logger_File - browser opened
+2021-10-28 17:49:51,113 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:49:53,891 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:49:58,127 [main] INFO logger_File - browser closed
+2021-10-28 17:50:03,225 [main] INFO logger_File - browser opened
+2021-10-28 17:50:04,532 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:06,346 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:06,534 [main] INFO logger_File - browser closed
+2021-10-28 17:50:11,091 [main] INFO logger_File - browser opened
+2021-10-28 17:50:11,886 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:13,104 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:13,290 [main] INFO logger_File - browser closed
+2021-10-28 17:50:17,543 [main] INFO logger_File - browser opened
+2021-10-28 17:50:18,601 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:19,898 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:20,078 [main] INFO logger_File - browser closed
+2021-10-28 17:50:24,330 [main] INFO logger_File - browser opened
+2021-10-28 17:50:25,806 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:27,651 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:27,837 [main] INFO logger_File - browser closed
+2021-10-28 17:50:32,672 [main] INFO logger_File - browser opened
+2021-10-28 17:50:34,322 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:36,986 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:37,174 [main] INFO logger_File - browser closed
+2021-10-28 17:50:42,156 [main] INFO logger_File - browser opened
+2021-10-28 17:50:43,174 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:44,380 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:44,526 [main] INFO logger_File - browser closed
+2021-10-28 17:50:49,756 [main] INFO logger_File - browser opened
+2021-10-28 17:50:50,482 [main] INFO logger_File - user clicked on signIn
+2021-10-28 17:50:51,568 [main] INFO logger_File - user enter credintial info
+2021-10-28 17:50:51,707 [main] INFO logger_File - browser closed
+2021-12-21 18:57:33,163 [main] INFO logger_File - browser opened
+2021-12-21 18:57:38,443 [main] INFO logger_File - browser opened
+2021-12-21 18:57:38,888 [main] INFO logger_File - browser closed
+2021-12-21 18:57:45,945 [main] INFO logger_File - browser opened
+2021-12-21 18:57:46,920 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:57:48,330 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:57:48,736 [main] INFO logger_File - browser closed
+2021-12-21 18:57:53,751 [main] INFO logger_File - browser opened
+2021-12-21 18:57:54,575 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:57:55,917 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:57:56,296 [main] INFO logger_File - browser closed
+2021-12-21 18:58:01,352 [main] INFO logger_File - browser opened
+2021-12-21 18:58:02,212 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:03,588 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:04,037 [main] INFO logger_File - browser closed
+2021-12-21 18:58:09,190 [main] INFO logger_File - browser opened
+2021-12-21 18:58:10,056 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:11,409 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:11,701 [main] INFO logger_File - browser closed
+2021-12-21 18:58:16,600 [main] INFO logger_File - browser opened
+2021-12-21 18:58:17,414 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:18,723 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:19,089 [main] INFO logger_File - browser closed
+2021-12-21 18:58:24,703 [main] INFO logger_File - browser opened
+2021-12-21 18:58:25,527 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:26,952 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:27,321 [main] INFO logger_File - browser closed
+2021-12-21 18:58:32,334 [main] INFO logger_File - browser opened
+2021-12-21 18:58:33,120 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:34,406 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:34,804 [main] INFO logger_File - browser closed
+2021-12-21 18:58:39,764 [main] INFO logger_File - browser opened
+2021-12-21 18:58:40,563 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:41,828 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:42,244 [main] INFO logger_File - browser closed
+2021-12-21 18:58:47,105 [main] INFO logger_File - browser opened
+2021-12-21 18:58:47,943 [main] INFO logger_File - user clicked on signIn
+2021-12-21 18:58:49,200 [main] INFO logger_File - user enter credintial info
+2021-12-21 18:58:49,543 [main] INFO logger_File - browser closed
+2021-12-31 19:45:18,757 [main] INFO logger_File - Start of Execution
+2021-12-31 19:45:29,424 [main] INFO logger_File - Browser opened
+2021-12-31 19:45:29,441 [main] INFO logger_File - Test Execution Started
+2021-12-31 19:45:30,519 [main] INFO logger_File - This is it
+2021-12-31 19:45:32,081 [main] INFO logger_File - user enter creditianls
+2021-12-31 19:45:32,091 [main] INFO logger_File - Test was passed successfully
+2021-12-31 19:45:32,094 [main] INFO logger_File - method name: Parameterstest
+2021-12-31 19:45:32,547 [main] INFO logger_File - Browser closed
+2021-12-31 19:45:37,521 [main] INFO logger_File - Browser opened
+2021-12-31 19:45:37,528 [main] INFO logger_File - Test Execution Started
+2021-12-31 19:45:37,844 [main] INFO logger_File - Browser closed
+2021-12-31 19:45:37,848 [main] INFO logger_File - Test was passed successfully
+2021-12-31 19:45:37,849 [main] INFO logger_File - method name: afterMethod
+2021-12-31 19:45:37,887 [main] INFO logger_File - method name: beforeMethod
+2021-12-31 19:45:37,983 [main] INFO logger_File - End of Execution
+2022-01-23 04:06:13,630 [main] INFO logger_File - User lunched Hotel website
+2022-01-23 04:06:50,083 [main] INFO logger_File - User lunched Hotel website
+2022-01-23 04:06:58,849 [main] INFO logger_File - User lunched Hotel website
+2022-02-27 11:04:27,352 [main] INFO logger_File - browser opened
+2022-02-27 11:04:32,977 [main] INFO logger_File - browser opened
+2022-02-27 11:04:33,427 [main] INFO logger_File - browser closed
+2022-02-27 11:04:41,005 [main] INFO logger_File - browser opened
+2022-02-27 11:04:41,949 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:04:43,321 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:04:43,691 [main] INFO logger_File - browser closed
+2022-02-27 11:04:48,967 [main] INFO logger_File - browser opened
+2022-02-27 11:04:49,716 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:04:51,029 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:04:51,397 [main] INFO logger_File - browser closed
+2022-02-27 11:04:56,589 [main] INFO logger_File - browser opened
+2022-02-27 11:04:57,385 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:04:58,679 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:04:59,020 [main] INFO logger_File - browser closed
+2022-02-27 11:05:04,088 [main] INFO logger_File - browser opened
+2022-02-27 11:05:04,839 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:06,055 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:06,456 [main] INFO logger_File - browser closed
+2022-02-27 11:05:11,500 [main] INFO logger_File - browser opened
+2022-02-27 11:05:12,630 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:13,904 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:14,275 [main] INFO logger_File - browser closed
+2022-02-27 11:05:19,287 [main] INFO logger_File - browser opened
+2022-02-27 11:05:20,044 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:21,320 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:21,706 [main] INFO logger_File - browser closed
+2022-02-27 11:05:26,811 [main] INFO logger_File - browser opened
+2022-02-27 11:05:27,612 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:29,152 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:29,506 [main] INFO logger_File - browser closed
+2022-02-27 11:05:34,596 [main] INFO logger_File - browser opened
+2022-02-27 11:05:35,338 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:36,749 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:37,136 [main] INFO logger_File - browser closed
+2022-02-27 11:05:42,785 [main] INFO logger_File - browser opened
+2022-02-27 11:05:43,587 [main] INFO logger_File - user clicked on signIn
+2022-02-27 11:05:45,080 [main] INFO logger_File - user enter credintial info
+2022-02-27 11:05:45,434 [main] INFO logger_File - browser closed
+2022-02-27 14:19:57,735 [main] INFO logger_File - browser opened
+2022-02-27 14:20:03,448 [main] INFO logger_File - browser opened
+2022-02-27 14:20:03,856 [main] INFO logger_File - browser closed
+2022-02-27 14:20:11,188 [main] INFO logger_File - browser opened
+2022-02-27 14:20:12,025 [main] INFO logger_File - user clicked on signIn
+2022-02-27 14:20:13,393 [main] INFO logger_File - user enter credintial info
+2022-02-27 14:20:13,780 [main] INFO logger_File - browser closed
+2022-02-27 14:20:19,202 [main] INFO logger_File - browser opened
+2022-02-27 14:20:20,019 [main] INFO logger_File - user clicked on signIn
+2022-02-27 14:20:21,201 [main] INFO logger_File - user enter credintial info
+2022-02-27 14:20:21,510 [main] INFO logger_File - browser closed
+2022-02-27 14:20:26,851 [main] INFO logger_File - browser opened
+2022-02-27 14:20:27,699 [main] INFO logger_File - user clicked on signIn
+2022-02-27 14:20:28,912 [main] INFO logger_File - user enter credintial info
+2022-02-27 14:20:29,202 [main] INFO logger_File - browser closed
+2022-02-27 14:20:35,556 [main] INFO logger_File - browser opened
+2022-02-27 14:20:36,425 [main] INFO logger_File - user clicked on signIn
+2022-02-27 14:20:37,676 [main] INFO logger_File - user enter credintial info
+2022-02-27 14:20:37,978 [main] INFO logger_File - browser closed
+2022-02-27 14:20:43,212 [main] INFO logger_File - browser opened
+2022-02-27 14:20:44,091 [main] INFO logger_File - user clicked on signIn
+2022-02-27 14:20:45,277 [main] INFO logger_File - user enter credintial info
+2022-02-27 14:20:45,596 [main] INFO logger_File - browser closed
+2022-02-27 14:20:50,367 [main] INFO logger_File - browser opened
+2022-04-02 14:11:58,626 [TestNG-test=Test-3] INFO logger_File - Browser opened
+2022-04-02 14:11:59,600 [TestNG-test=Test-2] INFO logger_File - Browser opened
+2022-04-02 14:12:00,016 [TestNG-test=Test-2] INFO logger_File - Browser closed
+2022-04-02 14:12:05,497 [TestNG-test=Test-3] INFO logger_File - Browser opened
+2022-04-02 14:13:44,980 [TestNG-test=Test-1] INFO logger_File - Browser opened
+2022-04-02 14:14:51,780 [main] INFO logger_File - Browser opened
+2022-04-02 14:14:52,113 [main] INFO logger_File - Browser closed

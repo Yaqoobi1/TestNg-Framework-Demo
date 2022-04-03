@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG Concepts">
+	<listeners>
+		<listener class-name="utilities.TestNGListeners"></listener>
+	</listeners>
+
+	<parameter name="valueOne" value="TekSchool" />
+	<parameter name="valueTwo" value="SDET" />
+	<parameter name="valueThree" value="I will make it" />
+	<parameter name="valueFour" value="My Offer waiting for me" />
+	<parameter name="valueFive" value="TimeToDie" />
+	<parameter name="email" value="eagles@tekschool.us" />
+	<parameter name="password" value="eagles" />
+	
+	<!-- test name="Parallel Exectuin" parallel = "methods" thread-count = "9"> -->
+	<!-- >test name="ParallelExecution" parallel ="methods" thread-count ="3"-->
+	<test name ="Anything">
+		<!--  groups>
+			<run>
+				<include name="smoke"></include>
+			</run>
+		</groups-->
+		<classes>
+			<!--  >class name="testNG.ParallelExecution" /-->
+			<class name="testNG.TestNGParameters" />
+		</classes>
+	</test>
+</suite>
